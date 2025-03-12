@@ -38,7 +38,7 @@ sbod-itf = { git = "https://github.com/Kamino-Finance/scope.git", features = ["n
 scope = { git = "https://github.com/Kamino-Finance/scope.git", package = "scope-types" }
 pyth-solana-receiver-sdk = "0.3.1"
 
-farms = { git = "https://github.com/impactdni2/kfarms.git", rev = "bf34a6585bbac4108a1f5f75c277aab52c2ba0d4", features = ["no-entrypoint"] }
+farms = { git = "https://github.com/impactdni2/kfarms.git", rev = "fbe3df7", features = ["no-entrypoint"] }
 
 derivative = "2.2.0"
 num_enum = "0.7.0"
